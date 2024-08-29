@@ -30,5 +30,6 @@ print("Hello", you)
 ### Now, this is the part of the post where there is typically a "Daily Challenge." Please complete the following challenge and show me when you have a working program. We will talk about how submissions will work next class, but for now, you will just show me. 
 
 #### Your challenge for today is to ask for 4 variables from a user, and then use those variables to write a few sentence story. You can decide what the variables are. For example, you could ask for fruits, and explain how to make a pie using all the fruits that the user inputs. Please show me when you are finished with this project. Have fun!
+#### If you need an extra challenge, try making a madlibs game. If you need a harder challenge, try making an empty list, and adding inputs to it from the user. (You may need to do some research for this...)
 
 
