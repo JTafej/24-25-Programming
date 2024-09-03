@@ -1,4 +1,4 @@
-# Welcome to the intro to programming GitHub page! 
+# Welcome to the intro to programming GitHub page! (TOPICS: PRINT, INPUTS, VARIABLES)
 
 ## This post is meant to give you an idea of the typical structure of the course. 
 
