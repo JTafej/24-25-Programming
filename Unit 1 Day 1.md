@@ -10,9 +10,9 @@
 ```
 print("hello everyone!")
 ```
-#### Congrats! This is called a Print statement. You just ran your first program! Please take note of the Syntax, as it is all important. The quotes, print is lowercase, the parenthesis.
+#### Congrats! This is called a PRINT statement. You just ran your first program! Please take note of the Syntax, as it is all important. The quotes, print is lowercase, the parenthesis.
 
-#### Now for something more. Say you want to store some information in your program. For example, your name. We can do this with something called a variable. See example below. Notice the additional syntax, and try this with your own name! 
+#### Now for something more. Say you want to store some information in your program. For example, your name. We can do this with something called a VARIABLE. See example below. Notice the additional syntax, and try this with your own name! In this case "name" would be a variable, and the value of the variable is "Jacob"
 
 ```
 name = "Jacob"
