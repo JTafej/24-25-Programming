@@ -1,4 +1,4 @@
-# Welcome to class number 2! Today we will review print(), variables, and strings. We will also talk about concatenating and if statements. 
+# Welcome to class number 2! Today we will review print(), variables, and strings. We will also talk about concatenating and if/else statements. 
 
 ## First of all, please read through the powerpoint on Canvas if you have not already. Here is a relevant slide: 
 
