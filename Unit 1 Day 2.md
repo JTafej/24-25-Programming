@@ -34,7 +34,7 @@ if b > a:
 * If their name is the same as yours, you should print them a nice, concatenated note.
 * Otherwise, print a message that says something like "ALERT!"
 
-* (Not required) Need an extra challenge? Ask them a follow up question after confirming they have the same name as you. (Be careful with indentation here!)
+* (Not required) Need an extra challenge? Ask them a follow up question after confirming they have the same name as you. (Be careful with indentation here. It may be helpful to read about "nested if statements" [Nested if Statements](https://www.w3schools.com/python/gloss_python_if_nested.asp)
   
   
 
