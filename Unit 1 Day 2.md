@@ -10,21 +10,18 @@
 
 ## I hope you enjoyed the ice cream introduction to if statements. Here is an example of code that mimics what the volunteer was doing in class today. Notice the indentation and colon use. It is all important. 
 
+```
 flavor = input("What's you favorite flavor of ice cream?")
 if flavor == "cookies and cream":
   print("high five!")
 else:
   print("Ew!")
-
-
-
-## Your challenge for today is to use the following starter code on https://www.online-python.com/ to create a number guessing game. Instead of b > a, you'll need to check if they are equal with two equal signs: a == b. 
 ```
-a = 33
-b = 200
 
-if b > a:
-  print("b is greater than a")
-```
+
+
+## Use the code above as a starting place for your challenge today. You need to create a program that asks a user for their name. If their name is the same as yours, you should print them a nice, concatenated note. Otherwise, print a message that says something like "ALERT!" 
+
+
 
 
