@@ -65,7 +65,8 @@ if x > 10:
 
 
 
-Your challenge for the day is to create an adventure game with if -elif - else statements. It should ask a question such as "do you want the story to take place at the beach or in the mountains?" and then have the user input which path they want to take. The program should ask some questions throughout the story to make things interesting. You'll need to understand nested if statements for this to work well. Be careful with indenting! 
+### Your challenge for the day is to create an adventure game with if -elif - else statements. It should ask a question such as "do you want the story to take place at the beach or in the mountains?" and then have the user input which path they want to take. The program should ask some questions throughout the story to make things interesting. You'll need to understand nested if statements for this to work well. Be careful with indenting! 
+* Please submit this on Canvas today. 
 
 
 
