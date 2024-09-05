@@ -29,9 +29,21 @@ elif age >= 13:
 else:
     print("You are a child.")
 ```
+### What if you want to check if more than one condition is true? No problem! You just need to include "and" or "or" depending on what you're checking. 
 
-
-
+```
+temp = 25
+if temp > 30:
+    print("It's hot outside.")
+elif temp > 20 and temp <= 30:
+    print("It's a nice day.")
+else:
+    print("It's cold outside.")
+```
+### Small challenge: Change the problem above so that it asks the user for what temperature it is outside. You'll need to specify that you want an integer. Use this as a template:
+```
+number = int(input("give me a number!))
+```
 
 
 
