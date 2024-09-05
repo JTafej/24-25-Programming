@@ -1,7 +1,6 @@
 ## September 5th, 2024! If, Else, and Elif are called conditionals. The program will run differently based on which condition the user selects. 
 
 
-Add multiple steps for introducing if else elif statements today. 
 
 
 
