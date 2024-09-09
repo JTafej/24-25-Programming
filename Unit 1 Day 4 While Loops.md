@@ -33,7 +33,7 @@ while exit == "no":
 
 ```
 
-##### One of the most powerful ways to use a while use is with the True command. This will run until you tell the while loop to "break," which will end the while loop. Try running this program and notice the use of "counter." You will need to use a counter for your challenge today. 
+##### One of the most powerful ways to use a while use is with a boolean (True in this case). This will run until you tell the while loop to "break," which will end the while loop. Try running this program and notice the use of "counter." You will need to use a counter for your challenge today. 
 ```
 print("can you guess the lyrics??\n Guess the lyrics. If you get them right, you can be cool\n")
 counter = 0
