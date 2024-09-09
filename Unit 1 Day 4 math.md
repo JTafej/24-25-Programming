@@ -1,7 +1,6 @@
 # Today we are going to use some math skills in our program. 
-#### Side-note: I put some grades into Canvas. Please check when you have a free minute. 
 
-### Program to reflect what we just did. Try running it in Replit. 
+### Code to reflect what we just did. Try running it in Replit. 
 ```
 myScore = input("Your score: ")
 if myScore == 10:
@@ -62,10 +61,6 @@ if fan == "yes":
 else:
   print("Thanks for not wasting my time. Goodbye.")
   ```
-
-
-
-
 
 
 
