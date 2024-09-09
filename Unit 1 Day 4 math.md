@@ -30,7 +30,7 @@ else:
   print("Try again 😭")
 ```
 ### In addition to ==, we can use >= or <= to judge the size of a number. (These are essentially *greater than* and *less than* symbols.) 
-### Okay, now that we've learned a bit... See if you can spot my errors and fix them! Please comment out the fixed code in replit. 
+### Okay, now that we've learned a bit... See if you can spot my errors and fix them! Please let me know when you get the code working!
 
 ```
 score = input("What was your score on the test?"))
