@@ -66,7 +66,9 @@ else:
 
 
 
-## Below is a list of recent generations in the US. Your task is to create ask the user when they were born, and respond differently based on their age. Hint: you must use "elif" and "int" in your answer. If you want an extra challenge, ask them their current age, and use that to figure out which generation they were born into. 
+## Below is a list of recent generations in the US. Your task is to create ask the user when they were born, and respond differently based on their age. Hint: you must use "elif" and "int" in your answer. 
+* Please ask them their name and the year they were born, and then say something like "Hi NAME, you are a Baby Boomer." 
+* If you want an extra challenge, ask them their current age, and use that to figure out which generation they were born into. 
 
 
 #### Traditionalists	1925-1946
