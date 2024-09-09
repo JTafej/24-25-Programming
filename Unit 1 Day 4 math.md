@@ -1,8 +1,6 @@
 # Today we are going to use some math skills in our program. 
 #### Side-note: I put some grades into Canvas. Please check when you have a free minute. 
 
-### First, I need two volunteers again. 
-
 ### Program to reflect what we just did. Try running it in Replit. 
 ```
 myScore = input("Your score: ")
