@@ -1,7 +1,5 @@
 ## Project 1. September 16th, 2024. Today you will begin your first project. I am sorry I will not be there to walk you through it today. Please read this document thoroughly and make sure you follow the guidelines listed below for full credit. 
 
-### **Python Project: Conditionals, Variables, and Print Statements**
-
 #### **Overview**
 For your first Python programming project, you'll be using what you've learned about **conditionals (if, else, elif)**, **int and float**, **basic math**, **variables**, and **print statements** to create a small, interesting program. The goal is to challenge yourself to think creatively about how you can use these basic tools to build something fun and functional.
 
