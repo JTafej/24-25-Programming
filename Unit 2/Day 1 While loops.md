@@ -77,6 +77,27 @@ while number <= 5:
 # 
 
 
+### use "break" to exit the loop and skip to the line after the end of the loop. Try it out! 
+```
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+  i += 1
+```
+### Use "continue" to skip past a particular iteration of the while loop. Run this code. What value is missing? 
+
+```
+i = 0
+while i < 6:
+  i += 1
+  if i == 3:
+    continue
+  print(i)
+
+# number 3 is missing in the result!
+```
 
 
 
@@ -87,8 +108,23 @@ while number <= 5:
 
 
 
+### Finally, one of the most powerful ways to use a while use is with a Boolean. [Read about Booleans here](https://en.wikipedia.org/wiki/Boolean_data_type). This will run until you tell the while loop to "break," which will end the while loop. 
+### while True loops will run forever, unless you introduce something to stop them. For example, adding "break"! 
+```
+#this creates an infinite loop
+while True:
+    print("I am always true")
+```
+### This does not: 
+```
+while True:
+    print("I am always true")
+    break
+print("glad we got outta there!")
+```
 
-### Finally, one of the most powerful ways to use a while use is with a Boolean. [Read about Booleans here](https://en.wikipedia.org/wiki/Boolean_data_type). This will run until you tell the while loop to "break," which will end the while loop. Try running this program and notice the use of "counter." You will need to use a counter for your challenge today. 
+
+### Try running the program and notice the use of "counter." You will need to use a counter for your challenge today. 
 ```
 print("can you guess the lyrics??\n Guess the lyrics. If you get them right, you can be cool\n")
 counter = 0
