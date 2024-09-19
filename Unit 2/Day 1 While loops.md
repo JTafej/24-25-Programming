@@ -141,5 +141,6 @@ print("Nice! You got it on attempt number", counter)
 
 ```
 
-#### The challenge for today is to create a program that asks the user for an animal, and then says the sound that animal makes. For example: "what animal do you like?" if input = cow, output is "Cows go mooooo" Please use a while loop so you can ask a user if they want to keep playing the game. If they say no, make sure you stop the game. 
-*Add a counter to your program, and tell you user how many rounds they played after they exit.*
+#### The challenge for today is to create a program that asks the user for an animal, and then says the sound that animal makes. For example: "what animal do you like?" if input = cow, output is "Cows go mooooo" 
+* Please use a while True loop so you can ask a user if they want to keep playing the game. If they say no, make sure you stop the game. 
+* Add a counter to your program, and tell you user how many rounds they played after they exit.
