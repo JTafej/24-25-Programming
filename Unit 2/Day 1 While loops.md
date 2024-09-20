@@ -24,7 +24,7 @@ exit = input("Exit?: ")
 <details>
 <summary>Answer </summary>
 <br>
-  Ah! The "Exit" question was not IN the while loop in that code. Add an indent to the exit line to correct the loop. 
+  Ah! The "Exit" question was not IN the while loop in that code. Add an indent to the exit line to correct the loop. Note, there are a couple other errors you need to correct...
   
 </details>
 
