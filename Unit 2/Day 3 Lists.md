@@ -32,12 +32,13 @@ Groceryitems = ['milk', 'bread', 'eggs']
   
 - **Accessing Elements in a list**:
   - Importantly,  lists index from 0, meaning the first element in a list is at “location 0.”
-  - Test it out: 
-    ```
+  - Test it out:
+```
+    
   my_list = ['apple', 'banana', 'cherry']
     print(my_list[0])  # prints 'apple'
     print(my_list[2])  # prints 'cherry'
-    ```
+  ```
 
 
 
@@ -45,10 +46,10 @@ Groceryitems = ['milk', 'bread', 'eggs']
 
 
 
-#### **4. Modifying Lists (10 minutes)**
+#### **4. Modifying Lists**
 - Lists are *mutable*, meaning you can change elements after creating the list.
 - **Modifying Elements**:
-  ```  favorite_movies = ['Inception', 'The Matrix', 'Interstellar']
+``` favorite_movies = ['Inception', 'The Matrix', 'Interstellar']
   print(favorite_movies[1])  # Accesses the second item
 ```
 ```
@@ -63,7 +64,7 @@ Groceryitems = ['milk', 'bread', 'eggs']
   print(favorite_movies)  # Adds 'Avatar' to the end
   ```
 
-#### **3. Hands-On Practice: Creating and Accessing Lists (15 minutes)**
+#### **Creating and Accessing Lists**
 - **You try it out!**: Create a list of your favorite movies.
   ```
   favorite_movies = ['Inception', 'The Matrix', 'Interstellar']
@@ -72,7 +73,7 @@ Groceryitems = ['milk', 'bread', 'eggs']
 
 
 
-- **Activity 2**: Print the first and last item in your list using indexing. You can use negative indexing (`-1` refers to the last item. This will be helpful if you have a giant list and you don’t necessarily know how long it is, although you can find that out as well):
+- **Try it out #2**: Print the first and last item in your list using indexing. You can use negative indexing (`-1` refers to the last item. This will be helpful if you have a giant list and you don’t necessarily know how long it is, although you can find that out as well):
   ```python
   print(favorite_movies[-1])  # prints 'Interstellar' in my example. 
   ```
@@ -84,17 +85,17 @@ Groceryitems = ['milk', 'bread', 'eggs']
   for movie in favorite_movies:
       print(movie)
   ```
-  - Walk through how the loop accesses each element of the list one by one.
+#### Notice how the loop accesses each element of the list one by one.
 
-  - Have students create a list of numbers and use a `for` loop to print each number doubled.
-    ```python
+  - Create a list of numbers and use a `for` loop to print each number doubled.
+    ```
     numbers = [1, 2, 3, 4, 5]
     for number in numbers:
         print(number * 2)
     ```
 
 - **While Loop with Lists**:
-  - Introduce how a `while` loop can also be used with lists by using the length of the list.
+  - Notice how a `while` loop can also be used with lists by using the length of the list.
     ```python
     i = 0
     while i < len(numbers):
@@ -102,10 +103,7 @@ Groceryitems = ['milk', 'bread', 'eggs']
         i += 1
     ```
 
----
-
-#### **6. Additional List Functions (5-10 minutes)**
-- **Introduce useful list methods**: 
+#### ** Additional List Functions** 
   - `len()`: Returns the number of items in a list.
     ```python
     print(len(favorite_movies))  # Output: 4
@@ -119,12 +117,7 @@ Groceryitems = ['milk', 'bread', 'eggs']
     favorite_movies.insert(1, 'The Dark Knight')
     ```
 
-- **Hands-On Practice**:
-  - Have students use `len()` and `remove()` on their own lists.
 
-
-#### **7. Closing Activity and Homework**
-- **Activity**: Have students create a list of random numbers using the `random` library and a `for` loop, then print only the even numbers in that list.
 
 - **Challenge for today**:  
   Create a list of 5 items. Write a program that:
@@ -133,4 +126,7 @@ Groceryitems = ['milk', 'bread', 'eggs']
   3. Removes an item from the list.
   4. Prints the entire modified list.
   5. Prints the last element of the list and says “this is the last item!” 
-  6. Prints the length of the list. (You’ll need to look up how to find this. It will work for any length and you shouldn’t need to count. 
+  6. Prints the length of the list. (You’ll need to look up how to find this. It will work for any length and you shouldn’t need to count.
+ 
+**Challenge number 2**
+Create a list of random numbers using the `random` library and a `for` loop, then print only the even numbers in that list.
