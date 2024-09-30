@@ -80,7 +80,7 @@ print(f"Today's date: {today:%Y-%m-%d}")
 ```
 #### Please note: , the percent signs within the f-string are used to indicate formatting directives. They are not part of the f-string syntax but rather part of the formatting syntax specific to the datetime module. In this case, the percent signs are used to specify how the today variable, which is a datetime object, should be formatted as a string.
 
-### Okay, enough about f-string! Let's get back to enumerate, loops, and lists. You challenge for today is to create an interactive to-do list. 
+### Okay, enough about f-strings! Let's get back to loops and lists. You challenge for today is to create an interactive to-do list. 
 ### Key Features:
 * View Tasks: Prints out all the tasks in the list.
 * Add Task: Appends a new task to the list.
