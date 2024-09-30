@@ -27,7 +27,7 @@ tasks = ["Buy groceries", "Clean the house", "Do laundry", "Finish homework"]
 for index, task in enumerate(tasks):
     print(f"{index + 1}. {task}")
 ```
-#### Ahhh, a nice and organized output... But what the f?
+#### Ahhh, a nice and organized output... But why the f?
 
 #_______________________________________________________________________________________________________________________________________
 ### Hmm... Let's pause here. Notice the "f" in that print statement? This is used to create something called an f-string, which is very powerful for printing. f-string is short for "formatted string literal." Let's take some time to play around with f-strings and begin to understand their use and syntax. 
