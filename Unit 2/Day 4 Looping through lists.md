@@ -17,4 +17,23 @@ while index < len(tasks):
     print(tasks[index])
     index += 1
 ```
+### Using Indices with a For Loop
+#### If you need to access both the index and the item while looping through a list, you can use the enumerate() function. Remember that the "index" is essentially just the location of the value in the loop. Also remember that the first element of a list is index 0!!
+
+#### Here is an example of using enumerate. Try running it, and see what you get! Ahhh, a nice and organized output...
+```
+tasks = ["Buy groceries", "Clean the house", "Do laundry", "Finish homework"]
+
+for index, task in enumerate(tasks):
+    print(f"{index + 1}. {task}")
+```
+
+
+
+
+
+
+
+
+
 
