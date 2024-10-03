@@ -1,7 +1,6 @@
 ## Today we are going to talk about Libaries. 
 
-### There currently around 137,000 python libriaries. Holy Cow! Here is a link to the 10 most popular libraries. Take a minute to read through each one and learn what they are used for. Please pick a libary to learn more about in the article. We will be discussing these libraries as a class to start today. 
-#### https://www.geeksforgeeks.org/libraries-in-python/
+### There currently around 137,000 python libriaries. Holy Cow! [Here is a link](https://www.geeksforgeeks.org/libraries-in-python/) Here is a link to the 10 most popular libraries. Take a minute to read through each one and learn what they are used for. Please pick a libary to learn more about in the article. We will be discussing these libraries as a class to start today. 
 
 ### In Python, libraries are collections of pre-written code (modules) that provide additional functionality for your programs. Libraries allow you to access functions, classes, and variables that someone else has already created, saving you time and effort so you don't have to reinvent the wheel.
 
