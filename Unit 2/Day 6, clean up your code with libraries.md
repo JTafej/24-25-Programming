@@ -1,5 +1,8 @@
 ## Today we are going to talk about Libaries. 
 
+### There currently around 137,000 python libriaries. Holy Cow! Here is a link to the 10 most popular libraries. Take a minute to read through each one and learn what they are used for. Please pick a libary to learn more about in the article. We will be discussing these libraries as a class to start today. 
+#### https://www.geeksforgeeks.org/libraries-in-python/
+
 ### In Python, libraries are collections of pre-written code (modules) that provide additional functionality for your programs. Libraries allow you to access functions, classes, and variables that someone else has already created, saving you time and effort so you don't have to reinvent the wheel.
 
 ### Why Use Libraries?
@@ -11,9 +14,6 @@
 * math: Provides mathematical functions like sqrt() (square root) and sin() (sine).
 * random: Used for generating random numbers, selecting random items from lists, and more.
 * datetime: Used for working with dates and times.
-  
-### There currently around 137,000 python libriaries. Holy Cow! Here is a link to the 10 most popular libraries. Take a minute to read through each one and learn what they are used for. 
-#### https://www.geeksforgeeks.org/libraries-in-python/
 
 ### For example, PyTorch is used for Machine learning and Neural Networks. 
 * "PyTorch is the largest machine learning library that optimizes tensor computations. It has rich APIs to perform tensor computations with strong GPU acceleration. It also helps to solve application issues related to neural networks."
@@ -111,4 +111,4 @@ print(squared)
 time.sleep(1)
 os.system("clear")
 ```
-### Where might the time and os libraries be usesful to you? think about your programs from the past. Can you use time and os to clean them up a bit? That is your challenge for the day. Please complete your challenge in the new sandbox for the day. If you get finished early, read some more about libraries on the link I attached! 
+### Where might the time and os libraries be usesful to you? Think about your programs from the past. Can you use time and os to clean them up a bit? That is your challenge for the day. Try to make the output appealing to the user. Please complete your challenge in the new sandbox for the day. Feel free to also make a new program, using the power of os and time. If you get finished early, read some more about libraries on the link I attached! 
