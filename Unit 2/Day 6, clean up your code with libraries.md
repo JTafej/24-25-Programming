@@ -111,3 +111,4 @@ time.sleep(1)
 os.system("clear")
 ```
 ### Where might the time and os libraries be usesful to you? Think about your programs from the past. Can you use time and os to clean them up a bit? That is your challenge for the day. Try to make the output appealing to the user. Please complete your challenge in the new sandbox for the day. Feel free to also make a new program, using the power of os and time. If you get finished early, read some more about libraries on the link I attached! 
+## For an additional challenge, can you use os and time to create a stopwatch that has 1/10 of a second, seconds, and minutes??
