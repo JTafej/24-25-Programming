@@ -115,5 +115,5 @@ result = calculate(number1, number2 )
 print(result)
 ```
 
-### Your challenge for today is to create a "log in system" where users enter their names, and then get a unique response. Use functions to print a special message for each user who "signs in" to the program. This way each person gets a personalized note! Use Time and OS to make your program cleaner and more interactive with the users. 
+### Your challenge for today is to create a "log in system" where users enter their names, and then get a unique response. Use functions to print a special message for each user who "signs in" to the program. This way each person gets a personalized note! Use Time and OS to make your program cleaner and more interactive for the users. 
 #### If you want an extra challenge, you can give each user a unique password that they must enter!
