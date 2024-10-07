@@ -56,11 +56,9 @@ for i in range(3):
 #### *Task 3:* Modify the say_hello() function to accept a name as a parameter, and then print "Hello, [name]!" in the loop for three different names.
 Comment this task out in your code once you’re done. This one may be a bit trickier! A list may be helpful, maybe not. 
 ________________________________________
-Step 6: Using Functions to Simplify Code
-Let’s revisit your random adventure generator from yesterday. You can make it cleaner by turning parts of it into functions. For example, you can create a function that returns a random character, another that returns a random setting, and so on.
-Here’s an example of refactoring the adventure generator using functions:
-python
-Copy code
+### Using Functions to Simplify Code
+### Let’s revisit your random adventure generator from yesterday. You can make it cleaner by turning parts of it into functions. For example, you can create a function that returns a random character, another that returns a random setting, and so on.
+```
 import random
 
 characters = ["a knight", "a wizard", "a thief"]
@@ -78,18 +76,9 @@ def get_random_action():
 
 # Generate and print a random scenario
 print(f"{get_random_character()} {get_random_setting()} and {get_random_action()}.")
-Task 4: Refactor your adventure generator (or to-do list app) by breaking parts of it into functions.
-Comment this task out in your code once you’re done.
+```
 ________________________________________
-Step 7: Challenge: Create a More Complex Function
-Now for a bigger challenge! Create a function that asks the user for two numbers, adds them together, multiplies them, or subtracts them (based on the user’s choice), and then returns the result.
-Here’s an outline of what to do:
-1.	Write a function called calculate that:
-o	Takes in two numbers.
-o	Asks the user if they want to add, multiply, or subtract the numbers.
-o	Performs the chosen operation and returns the result.
-2.	Use conditionals (if, elif, else) to perform the correct operation based on the user’s input.
-Example interaction:
+#### Here's an example of a slightly more complicated function. Notice that this function includes a question that asks the use what operation they want to perform. It does not, however, ask them what numbers they want to use. Those you would need to ask before the function, or at least before calling the function. 
 ```
 def calculate(a, b):
     operation = input("Would you like to add, subtract, or multiply? ").lower()
@@ -106,8 +95,24 @@ def calculate(a, b):
 result = calculate(10, 5)
 print(result)
 ```
-________________________________________
-Final Notes
-If you finish all tasks early, review any previous assignments or work on enhancing the adventure generator or to-do list project with more complex functions.
-Good luck, and remember, functions are here to make your life easier by organizing and reusing code!
+#### The example below allows the user to pick which numbers they want to use. Test it out and make sure you understand it. 
+```
+def calculate(a, b):
+    operation = input("Would you like to add, subtract, or multiply? ").lower()
+    if operation == "add":
+        return a + b
+    elif operation == "subtract":
+        return a - b
+    elif operation == "multiply":
+        return a * b
+    else:
+        return "Invalid operation!"
+
+# Test the function
+number1 = int(input("what number?"))
+number2 = int(input("another number?"))
+result = calculate(number1, number2 )
+print(result)
+```
+
 
