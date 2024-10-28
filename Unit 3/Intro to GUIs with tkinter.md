@@ -72,6 +72,6 @@ anotherbtn = tk.Button(root, text = "TEST")
 anotherbtn.place(x = 200, y = 300, height = 100, width = 100)
 ```
 
-## Now for your challenge! None of these bottons have functionality, but your task today is to create the visual of a calculator. It can be a basic, 4 function calculator. It will take some adjusting, but you should have all the code you need to create this. Use colors to make it more interesting. Make it your own! For example, I'd call mine "Jacob's Calculator." 
+## Now for your challenge! None of these buttons have functionality, but your task today is to create the visual of a calculator. It can be a basic, 4 function calculator. It will take some adjusting, but you should have all the code you need to create this. Use colors to make it more interesting. Make it your own! For example, I'd call mine "Jacob's Calculator." 
 
 <img width="137" alt="image" src="https://github.com/JTafej/Programming-Lessons/assets/143742710/674d30e0-6852-4309-a13e-647f77cb05d6">
