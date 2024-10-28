@@ -2,7 +2,7 @@
 
 ## This post is meant to give you an idea of the typical structure of the course. 
 
-### Often, there will be a short lesson, with some code that you are meant to copy into Replit to experiment with. 
+### Often, there will be a short lesson, with some code that you are meant to copy into Replit or another IDE to experiment with. 
 
 ### For today, please open Replit, create an account (with your school email) and create a new Python file. 
 
