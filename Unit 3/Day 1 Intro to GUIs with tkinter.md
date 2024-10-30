@@ -2,7 +2,7 @@
 ### Warm up: 
 
 
-### Today we are going to learn a basic GUI or graphical user interface in Tkinter. 
+### Today we are going to learn to create a basic GUI or graphical user interface in Tkinter. 
 #### To begin, we will set up a window. Try this out and you should see a blank window. 
 ```
 import tkinter as tk
