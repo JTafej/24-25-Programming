@@ -26,7 +26,7 @@ while run:
 pygame.quit()
 ```
 
-## Now, please import the code below into replit. 
+## Now, please import the code below into CodeHS. 
 
 ```
 import pygame
