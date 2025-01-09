@@ -52,8 +52,6 @@ print(f"My dog is {my_dog.age} years old.")
 
 
 
-### Your bonus challenge:
-* create a new class called Doggy_dice in which
+### Your bonus challenge is to create a new class called Doggy_dice in which:
 * the dog has similar attributes to those in class Dog 
 * but it can also roll a 6 sided die if you ask it to. (You may need to look at previous code to remember how to create a 6 sided die.)
-* When you 
