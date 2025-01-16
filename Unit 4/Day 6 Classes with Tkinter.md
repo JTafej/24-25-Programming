@@ -1,7 +1,7 @@
 ### Now that we have spent a few days with classes, lets try to implement them in a new way. Today we'll be combining what we learned previously with tkinter with classes. We will create a GUI that makes an attractive, user friendly pet-simulation game. 
 
 ## Here is some starter tkinter code to remind you how it works at a basic level. Reminder that the "command =myClick" section calls the function. You'll need to experiment with how to call a class method instead of a function defined outside of a class. 
-'''
+```
 import tkinter as tk
 root = tk.Tk()
 
@@ -21,7 +21,7 @@ myButton = tk.Button(root, text="Enter your name, then click me", command=myClic
 myButton.pack()
 
 root.mainloop()
-'''
+``` 
 
 
 ### Pet Simulation Game
