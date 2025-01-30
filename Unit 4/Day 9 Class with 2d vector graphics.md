@@ -1,9 +1,11 @@
 ## Hello again!
 ### Today we will continue working with the tile map you used yesterday. If you'll recall, you created a tile map of your own choice. Today, as you saw in the code that was printed out, we will be adding a background, and a character that moves using 2d graphics. 
 
-### The code that was printed on the sheet is shown below. You can use this as your starting place, or you can choose to take the pieces of the code and implement them into your current tile map. Have fun!  -Jacob
+### The code that was printed on the sheet is shown below. You can use this as your starting place, or you can choose to take the pieces of the code and implement them into your current tile map. 
 
 #### Again, [here is a link](https://www.youtube.com/watch?v=5Ui51gD3uRE) to the video that the code is from if you want to watch/learn more about each step in the process. 
+
+### Your challenge for today is to add y motion using the x motion as a starting point, at and to make a map that works for your screen size. 
 
 ```
 import pygame
