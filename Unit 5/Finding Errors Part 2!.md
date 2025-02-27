@@ -44,29 +44,15 @@ Check how the append method works with lists.
 
 ---
 
-### 4. Class Inheritance
+### 4. List Comprehension with Conditional
 ```python
-class Animal:
-    def __init__(self, name):
-        self.name = name
-        
-    def speak(self):
-        pass
-
-class Dog(Animal):
-    def __init__(self, name, breed):
-        self.name = name
-        self.breed = breed
-        
-    def speak(self):
-        return "Woof!"
-
-fido = Dog("Fido", "Labrador")
-print(fido.speak())
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+even_numbers = [x if x % 2 == 0 for x in numbers]
+print(even_numbers)
 ```
 <details>
 <summary>Hint</summary>
-How should you properly call the parent class's __init__ method?
+Check the syntax for conditional list comprehensions.
 </details>
 
 ---
@@ -160,6 +146,8 @@ print(area)
 Check the parameters in the class method definition.
 </details>
 
+---
+## Simulated Weather App. Below is the code from the paper that you explored at the start of class today. Give it a try and see if it's what you expected!
 
 ```
 import tkinter as tk
